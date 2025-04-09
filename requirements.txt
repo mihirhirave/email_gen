@@ -4,3 +4,4 @@ requests
 langchain
 groqcloud
 langchain_openai
+fpdf
