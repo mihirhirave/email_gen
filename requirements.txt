@@ -1,0 +1,6 @@
+streamlit
+beautifulsoup4
+requests
+langchain
+groqcloud
+langchain_openai
